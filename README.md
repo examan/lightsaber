@@ -1,2 +1,2 @@
 # lightsaber
-Highlight add-in for Powerpoint
+Highlighter add-in for Powerpoint
