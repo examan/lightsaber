@@ -1,7 +1,5 @@
-Source/Lightsaber/bin
-Source/Lightsaber/obj
-Source/Setup64/Debug
-Source/Setup64/Release
-Source/Setup86/Debug
-Source/Setup86/Release
+bin
+obj
+Debug
+Release
 *.suo
