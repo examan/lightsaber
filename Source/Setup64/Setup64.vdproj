@@ -7,36 +7,16 @@
 "LanguageId" = "3:1033"
 "CodePage" = "3:1252"
 "UILanguageId" = "3:1033"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
     "Hierarchy"
     {
         "Entry"
         {
-        "MsmKey" = "8:_010C9C7BA3D605A1FD741E404F83BAD5"
+        "MsmKey" = "8:_0CE4471EB8A34D933607FC4210EDBB31"
         "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_04895325ECAB945FD2D16256F475320E"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_04895325ECAB945FD2D16256F475320E"
-        "OwnerKey" = "8:_2D0EB55C85F820B8A385A76797851981"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_04895325ECAB945FD2D16256F475320E"
-        "OwnerKey" = "8:_010C9C7BA3D605A1FD741E404F83BAD5"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_04895325ECAB945FD2D16256F475320E"
-        "OwnerKey" = "8:_3E2E18FFC286C8F1BDDE29298778D708"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -48,25 +28,7 @@
         "Entry"
         {
         "MsmKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
-        "OwnerKey" = "8:_2D0EB55C85F820B8A385A76797851981"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2D0EB55C85F820B8A385A76797851981"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2D0EB55C85F820B8A385A76797851981"
-        "OwnerKey" = "8:_010C9C7BA3D605A1FD741E404F83BAD5"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2D0EB55C85F820B8A385A76797851981"
-        "OwnerKey" = "8:_3E2E18FFC286C8F1BDDE29298778D708"
+        "OwnerKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -77,13 +39,55 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_3E2E18FFC286C8F1BDDE29298778D708"
-        "OwnerKey" = "8:_010C9C7BA3D605A1FD741E404F83BAD5"
+        "MsmKey" = "8:_808273A77853AD82B0FBC795669A475A"
+        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3E2E18FFC286C8F1BDDE29298778D708"
+        "MsmKey" = "8:_808273A77853AD82B0FBC795669A475A"
+        "OwnerKey" = "8:_9AB931E2EF2AD349664A457576D62ED9"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_808273A77853AD82B0FBC795669A475A"
+        "OwnerKey" = "8:_0CE4471EB8A34D933607FC4210EDBB31"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_808273A77853AD82B0FBC795669A475A"
+        "OwnerKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
+        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
+        "OwnerKey" = "8:_9AB931E2EF2AD349664A457576D62ED9"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
+        "OwnerKey" = "8:_0CE4471EB8A34D933607FC4210EDBB31"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9AB931E2EF2AD349664A457576D62ED9"
+        "OwnerKey" = "8:_0CE4471EB8A34D933607FC4210EDBB31"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9AB931E2EF2AD349664A457576D62ED9"
         "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -91,36 +95,36 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0CE4471EB8A34D933607FC4210EDBB31"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9AB931E2EF2AD349664A457576D62ED9"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_808273A77853AD82B0FBC795669A475A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_04895325ECAB945FD2D16256F475320E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2D0EB55C85F820B8A385A76797851981"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3E2E18FFC286C8F1BDDE29298778D708"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_010C9C7BA3D605A1FD741E404F83BAD5"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -223,41 +227,20 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_010C9C7BA3D605A1FD741E404F83BAD5"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0CE4471EB8A34D933607FC4210EDBB31"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:PowerPointApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=f3aefb8851e52dd2, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_0CE4471EB8A34D933607FC4210EDBB31"
+                    {
+                    "Name" = "8:PowerPointApi.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:PowerPointApi.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_DB4CCD179FFE4888990B8188BC29F4AE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_04895325ECAB945FD2D16256F475320E"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:NetOffice, Version=1.7.2.0, Culture=neutral, PublicKeyToken=297f57b43ae7c1de, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:NetOffice.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_DB4CCD179FFE4888990B8188BC29F4AE"
@@ -282,6 +265,11 @@
             "AssemblyAsmDisplayName" = "8:stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
+                    "_2AD2EF092BD074EF3B0070C5FC8F60B8"
+                    {
+                    "Name" = "8:stdole.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:stdole.dll"
             "TargetName" = "8:"
@@ -301,13 +289,49 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2D0EB55C85F820B8A385A76797851981"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_808273A77853AD82B0FBC795669A475A"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:NetOffice, Version=1.7.2.0, Culture=neutral, PublicKeyToken=297f57b43ae7c1de, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_808273A77853AD82B0FBC795669A475A"
+                    {
+                    "Name" = "8:NetOffice.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:NetOffice.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DB4CCD179FFE4888990B8188BC29F4AE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_86AD7FDC078555B574FC7FCD7C4E2B0F"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:OfficeApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=a39beb0835c43c8e, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_86AD7FDC078555B574FC7FCD7C4E2B0F"
+                    {
+                    "Name" = "8:OfficeApi.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:OfficeApi.dll"
             "TargetName" = "8:"
@@ -327,13 +351,18 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3E2E18FFC286C8F1BDDE29298778D708"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9AB931E2EF2AD349664A457576D62ED9"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:VBIDEApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=931cec8882205047, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_9AB931E2EF2AD349664A457576D62ED9"
+                    {
+                    "Name" = "8:VBIDEApi.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:VBIDEApi.dll"
             "TargetName" = "8:"
@@ -387,9 +416,9 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Lightsaber"
-        "ProductCode" = "8:{E71451BA-BD83-4A04-BBE0-865F1069EB92}"
-        "PackageCode" = "8:{D45CFF5C-E4B0-4BFC-9B92-17FAADEBBD0D}"
-        "UpgradeCode" = "8:{8E751068-DACB-4597-839D-821A11816A15}"
+        "ProductCode" = "8:{B6DF16E6-D5B7-4E96-89D6-A9892EBB68C2}"
+        "PackageCode" = "8:{46775318-4EDB-4373-8B65-4FE245E64E75}"
+        "UpgradeCode" = "8:{344E177F-0578-4D9F-998A-57AE55E203BA}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
@@ -420,6 +449,114 @@
             {
                 "Keys"
                 {
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_1F3F73ADE235490F808A612D43A9E166"
+                    {
+                    "Name" = "8:SOFTWARE"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_0BF56297B392459583F6C917FD2DE023"
+                            {
+                            "Name" = "8:Microsoft"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_805CEE64DB5E455F8C801DD087026BBC"
+                                    {
+                                    "Name" = "8:Office"
+                                    "Condition" = "8:"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "DeleteAtUninstall" = "11:FALSE"
+                                    "Transitive" = "11:FALSE"
+                                        "Keys"
+                                        {
+                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_27AA139EC86C4C66B28D0682C1F0A92F"
+                                            {
+                                            "Name" = "8:PowerPoint"
+                                            "Condition" = "8:"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "DeleteAtUninstall" = "11:FALSE"
+                                            "Transitive" = "11:FALSE"
+                                                "Keys"
+                                                {
+                                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_EF918EC8DF184E469A4A53B27B28DB30"
+                                                    {
+                                                    "Name" = "8:AddIns"
+                                                    "Condition" = "8:"
+                                                    "AlwaysCreate" = "11:FALSE"
+                                                    "DeleteAtUninstall" = "11:FALSE"
+                                                    "Transitive" = "11:FALSE"
+                                                        "Keys"
+                                                        {
+                                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_9E44A7C31F5348579221D902AD1D27D3"
+                                                            {
+                                                            "Name" = "8:Lightsaber.Addin"
+                                                            "Condition" = "8:"
+                                                            "AlwaysCreate" = "11:FALSE"
+                                                            "DeleteAtUninstall" = "11:TRUE"
+                                                            "Transitive" = "11:FALSE"
+                                                                "Keys"
+                                                                {
+                                                                }
+                                                                "Values"
+                                                                {
+                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_119DAF85570D477CA736A341C0B13E90"
+                                                                    {
+                                                                    "Name" = "8:LoadBehavior"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "ValueTypes" = "3:3"
+                                                                    "Value" = "3:3"
+                                                                    }
+                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_3D560E9989B246FEB4A47F9B47B74CCA"
+                                                                    {
+                                                                    "Name" = "8:Description"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "ValueTypes" = "3:1"
+                                                                    "Value" = "8:Hightlight add-in for Powerpoint"
+                                                                    }
+                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_764F5B8A327E4203BFD4CEC1B843CA95"
+                                                                    {
+                                                                    "Name" = "8:FriendlyName"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "ValueTypes" = "3:1"
+                                                                    "Value" = "8:Lightsaber"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                        "Values"
+                                                        {
+                                                        }
+                                                    }
+                                                }
+                                                "Values"
+                                                {
+                                                }
+                                            }
+                                        }
+                                        "Values"
+                                        {
+                                        }
+                                    }
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
                 }
             }
             "HKCU"
@@ -859,7 +996,7 @@
             "Folder" = "8:_DB4CCD179FFE4888990B8188BC29F4AE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
+            "Vital" = "11:FALSE"
             "ReadOnly" = "11:FALSE"
             "Hidden" = "11:FALSE"
             "System" = "11:FALSE"
