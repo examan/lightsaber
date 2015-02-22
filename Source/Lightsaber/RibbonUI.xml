@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="OnLoadRibonUI">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabHome">
+        <group id="Lightsaber" label="Lightsaber"
+               insertAfterMso="GroupFont">
+          <splitButton id="HighlightSplitButton">
+            <button id="HighlightButton"
+                    getImage="HighlightButton_GetImage"
+                    getEnabled="GetEnabled"
+                    onAction="HighlightButton_OnAction"
+                    />
+            <menu id="HighlightMenu">
+              <gallery id="ColorGallery" columns="5" rows="3" showItemLabel="false"
+                       getImage="GetImage"
+                       getLabel="GetLabel"
+                       getItemCount="ColorGallery_GetItemCount"
+                       getItemImage="ColorGallery_GetItemImage"
+                       onAction="ColorGallery_OnAction"
+                       />
+              <button id="MoreColorButton"
+                      getImage="GetImage"
+                      getLabel="GetLabel"
+                      onAction="MoreColorButton_OnAction"
+                      />
+              <menuSeparator id="HighlightMenuSeparator" />
+              <button id="ClearButton"
+                      getImage="GetImage"
+                      getLabel="GetLabel"
+                      getEnabled="GetEnabled"
+                      onAction="ClearButton_OnAction"
+                      />
+            </menu>
+          </splitButton>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
