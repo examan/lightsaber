@@ -3,5 +3,6 @@ cd ../Source
 %DEVENV% /Rebuild "Release|x86" Lightsaber.sln
 %DEVENV% /Rebuild "Release|x64" Lightsaber.sln
 cd ../Build
+mkdir Release
 dotNetInstaller\installerLinker /Output:Release\Lightsaber.exe /Template:dotNetInstaller/dotNetInstaller.exe /Configuration:dotNetInstaller.configuration /Verbose+
 pause
