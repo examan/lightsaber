@@ -1,4 +1,4 @@
-# lightsaber
+# Lightsaber
 Highlighter add-in for Powerpoint
 
 # Build Environment
