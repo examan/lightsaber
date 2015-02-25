@@ -4,7 +4,7 @@ Highlighter add-in for Powerpoint
 # Latest version
 1.0.0
 
-# Lightsaber MSI Installer
+# Download Installer
 - [For PowerPoint 32-bits](https://github.com/examan/lightsaber/releases/download/1.0.0/Lightsaber86.msi)
 - [For PowerPoint 64-bits](https://github.com/examan/lightsaber/releases/download/1.0.0/Lightsaber64.msi)
 
