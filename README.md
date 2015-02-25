@@ -1,5 +1,5 @@
 # Lightsaber
-Highlighter add-in for Powerpoint
+Highlighter add-in for PowerPoint
 
 # Latest version
 1.0.0
