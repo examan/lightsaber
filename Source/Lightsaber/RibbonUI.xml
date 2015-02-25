@@ -5,7 +5,7 @@
       <tab idMso="TabHome">
         <group id="Lightsaber" label="Lightsaber"
                insertAfterMso="GroupFont">
-          <splitButton id="HighlightSplitButton">
+          <splitButton id="HighlightSplitButton" size="large">
             <button id="HighlightButton"
                     getImage="HighlightButton_GetImage"
                     getEnabled="GetEnabled"

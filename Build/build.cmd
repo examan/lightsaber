@@ -1,8 +1,6 @@
 for /f "tokens=3*" %%x in ('reg query "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\devenv.exe"') do set DEVENV="%%x %%y"
-cd ../Source
-%DEVENV% /Rebuild "Release|x86" Lightsaber.sln
-%DEVENV% /Rebuild "Release|x64" Lightsaber.sln
-cd ../Build
 mkdir Release
-dotNetInstaller\installerLinker /Output:Release\Lightsaber.exe /Template:dotNetInstaller/dotNetInstaller.exe /Configuration:dotNetInstaller.configuration /Verbose+
-pause
+%DEVENV% /Rebuild "Release|x86" ..\Source\Lightsaber.sln
+copy ..\Source\Setup86\Release\Lightsaber86.msi Release
+%DEVENV% /Rebuild "Release|x64" ..\Source\Lightsaber.sln
+copy ..\Source\Setup64\Release\Lightsaber64.msi Release

@@ -1,10 +1,10 @@
 ﻿using NetOffice.OfficeApi;
 using NetOffice.Tools;
+using stdole;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 using PowerPoint = NetOffice.PowerPointApi;
-using Resources = Lightsaber.Resources;
-using stdole;
 
 namespace Lightsaber
 {
@@ -108,7 +108,7 @@ namespace Lightsaber
             using (var graphics = Graphics.FromImage(image))
             using (var colorBrush = new SolidBrush(currentColor))
             {
-                graphics.FillRectangle(colorBrush, 0, 12, 16, 4);
+                graphics.FillRectangle(colorBrush, 0, 28, 32, 4);
                 return PictureConverter.ImageToPictureDisp(image);
             }
         }

@@ -4,9 +4,9 @@
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
 "ProjectName" = "8:Setup86"
-"LanguageId" = "3:1033"
+"LanguageId" = "3:0"
 "CodePage" = "3:1252"
-"UILanguageId" = "3:1033"
+"UILanguageId" = "3:0"
 "SccProjectName" = "8:"
 "SccLocalPath" = "8:"
 "SccAuxPath" = "8:"
@@ -186,16 +186,6 @@
             "ComponentsUrl" = "8:"
                 "Items"
                 {
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.0,Profile=Client"
-                    {
-                    "Name" = "8:Microsoft .NET Framework 4 Client Profile (x86 and x64)"
-                    "ProductCode" = "8:.NETFramework,Version=v4.0,Profile=Client"
-                    }
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Windows.Installer.4.5"
-                    {
-                    "Name" = "8:Windows Installer 4.5"
-                    "ProductCode" = "8:Microsoft.Windows.Installer.4.5"
-                    }
                 }
             }
         }
@@ -219,9 +209,9 @@
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
-                "FrameworkVersion" = "8:.NETFramework,Version=v4.0,Profile=Client"
+                "FrameworkVersion" = "8:.NETFramework,Version=v2.0"
                 "AllowLaterVersions" = "11:FALSE"
-                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=181012"
+                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=51424"
                 }
             }
         }
@@ -262,7 +252,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:NetOffice, Version=1.7.2.0, Culture=neutral, PublicKeyToken=297f57b43ae7c1de, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:NetOffice, Version=1.7.2.0, Culture=neutral, PublicKeyToken=89c3bee3540d2d4c, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_4F21873350DF0CD7F5CF78ACC6E87899"
@@ -293,7 +283,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:PowerPointApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=f3aefb8851e52dd2, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:PowerPointApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=b20ee04b8e2fa16a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_703FB35A9B4D5B95E2F3F8270B643295"
@@ -324,7 +314,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:VBIDEApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=931cec8882205047, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:VBIDEApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=856d3723dd1af5d0, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_B091A54767B5D0405787CB2490D9E62A"
@@ -355,7 +345,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:OfficeApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=a39beb0835c43c8e, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:OfficeApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=0e3d40a252277b73, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_F1B7E0F3FA2682C717BB6219820737C9"
@@ -409,7 +399,7 @@
         }
         "MsiBootstrapper"
         {
-        "LangId" = "3:1033"
+        "LangId" = "3:0"
         "RequiresElevation" = "11:FALSE"
         }
         "Product"
@@ -417,7 +407,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Lightsaber"
         "ProductCode" = "8:{1D66E0C5-C88A-47EA-8694-CD407BD1D1DC}"
-        "PackageCode" = "8:{77BAF3E5-ED5E-4C9A-95FD-270900370A96}"
+        "PackageCode" = "8:{D400A14B-6814-48D6-86C8-5A6C895489A7}"
         "UpgradeCode" = "8:{0523D059-61F6-4F58-835F-C1DAFC92AB65}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -996,7 +986,7 @@
             "Folder" = "8:_AFC22AFF0B5C42FA9F6341031C20D3D8"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
-            "Vital" = "11:FALSE"
+            "Vital" = "11:TRUE"
             "ReadOnly" = "11:FALSE"
             "Hidden" = "11:FALSE"
             "System" = "11:FALSE"
@@ -1023,8 +1013,8 @@
             "Tag" = "8:"
             "Folder" = "8:_AFC22AFF0B5C42FA9F6341031C20D3D8"
             "Condition" = "8:SystemLanguageID = 2052 or SystemLanguageID = 3076 or SystemLanguageID = 5124 or SystemLanguageID = 4100 or SystemLanguageID = 1028"
-            "Transitive" = "11:TRUE"
-            "Vital" = "11:FALSE"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
             "ReadOnly" = "11:FALSE"
             "Hidden" = "11:FALSE"
             "System" = "11:FALSE"

@@ -12,8 +12,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Lightsaber</RootNamespace>
     <AssemblyName>Lightsaber</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
     <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>
@@ -54,6 +55,7 @@
     <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
     <Optimize>true</Optimize>
     <OutputPath>bin\x86\Release\</OutputPath>
+    <RegisterForComInterop>false</RegisterForComInterop>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PowerPoint, Version=1.7.1.0, Culture=neutral, processorArchitecture=MSIL">

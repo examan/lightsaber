@@ -4,6 +4,11 @@ using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using Resources = Lightsaber.Resources;
 
+namespace System.Runtime.CompilerServices
+{
+    public class ExtensionAttribute : Attribute { }
+}
+
 namespace Lightsaber
 {
     /* Reference: http://stackoverflow.com/a/1563724 */
@@ -70,7 +75,7 @@ namespace Lightsaber
                 {
                     using (var activeWindow = this.Application.ActiveWindow)
                     {
-                        return 0 < activeWindow.Selection.TextRange.Count && activeWindow.Selection.TextRange2.Text.Trim() != String.Empty;
+                        return 0 < activeWindow.Selection.TextRange.Count && activeWindow.Selection.TextRange.Text.Trim() != String.Empty;
                     }
                 }
                 catch
@@ -79,14 +84,9 @@ namespace Lightsaber
                 }
             }
         }
-
+        
         private void Highlight(Color color)
         {
-            if (!HighlightEnabled)
-            {
-                return;
-            }
-
             var data = Clipboard.GetDataObject();
             if (data != null && 0 < data.GetFormats().Length)
             {
@@ -101,7 +101,7 @@ namespace Lightsaber
             using (var activeWindow = this.Application.ActiveWindow)
             using (var richTextBox = new RichTextBox())
             {
-                activeWindow.Selection.TextRange2.Copy();
+                activeWindow.Selection.TextRange.Copy();
                 richTextBox.Paste();
                 richTextBox.SelectAll();
 
@@ -116,7 +116,7 @@ namespace Lightsaber
 
                 richTextBox.Copy();
 
-                activeWindow.Selection.TextRange2.Paste();
+                activeWindow.Selection.TextRange.Paste();
             }
 
             Clipboard.Clear();
@@ -130,11 +130,6 @@ namespace Lightsaber
 
         private void ClearHighlight()
         {
-            if (!HighlightEnabled)
-            {
-                return;
-            }
-
             Highlight(Color.Transparent);
         }
     }

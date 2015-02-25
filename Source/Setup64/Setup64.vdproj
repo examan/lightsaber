@@ -4,9 +4,9 @@
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
 "ProjectName" = "8:Setup64"
-"LanguageId" = "3:1033"
+"LanguageId" = "3:0"
 "CodePage" = "3:1252"
-"UILanguageId" = "3:1033"
+"UILanguageId" = "3:0"
 "SccProjectName" = "8:"
 "SccLocalPath" = "8:"
 "SccAuxPath" = "8:"
@@ -16,31 +16,31 @@
         "Entry"
         {
         "MsmKey" = "8:_0CE4471EB8A34D933607FC4210EDBB31"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "OwnerKey" = "8:_1726ABEEE3914D498D63F7EB5F554169"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
-        "OwnerKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "MsmKey" = "8:_1726ABEEE3914D498D63F7EB5F554169"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
+        "OwnerKey" = "8:_1726ABEEE3914D498D63F7EB5F554169"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
+        "OwnerKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_808273A77853AD82B0FBC795669A475A"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "OwnerKey" = "8:_1726ABEEE3914D498D63F7EB5F554169"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -64,7 +64,7 @@
         "Entry"
         {
         "MsmKey" = "8:_86AD7FDC078555B574FC7FCD7C4E2B0F"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "OwnerKey" = "8:_1726ABEEE3914D498D63F7EB5F554169"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -88,13 +88,19 @@
         "Entry"
         {
         "MsmKey" = "8:_9AB931E2EF2AD349664A457576D62ED9"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "OwnerKey" = "8:_1726ABEEE3914D498D63F7EB5F554169"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_30353EF62BF8430DBE5DC94615ED9F16"
+        "OwnerKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_1726ABEEE3914D498D63F7EB5F554169"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -119,12 +125,6 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_808273A77853AD82B0FBC795669A475A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2AD2EF092BD074EF3B0070C5FC8F60B8"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -186,16 +186,6 @@
             "ComponentsUrl" = "8:"
                 "Items"
                 {
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.0,Profile=Client"
-                    {
-                    "Name" = "8:Microsoft .NET Framework 4 Client Profile (x86 and x64)"
-                    "ProductCode" = "8:.NETFramework,Version=v4.0,Profile=Client"
-                    }
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Windows.Installer.4.5"
-                    {
-                    "Name" = "8:Windows Installer 4.5"
-                    "ProductCode" = "8:Microsoft.Windows.Installer.4.5"
-                    }
                 }
             }
         }
@@ -219,9 +209,9 @@
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
-                "FrameworkVersion" = "8:.NETFramework,Version=v4.0,Profile=Client"
+                "FrameworkVersion" = "8:.NETFramework,Version=v2.0"
                 "AllowLaterVersions" = "11:FALSE"
-                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=181012"
+                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=51424"
                 }
             }
         }
@@ -231,7 +221,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:PowerPointApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=f3aefb8851e52dd2, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:PowerPointApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=b20ee04b8e2fa16a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_0CE4471EB8A34D933607FC4210EDBB31"
@@ -293,7 +283,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:NetOffice, Version=1.7.2.0, Culture=neutral, PublicKeyToken=297f57b43ae7c1de, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:NetOffice, Version=1.7.2.0, Culture=neutral, PublicKeyToken=89c3bee3540d2d4c, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_808273A77853AD82B0FBC795669A475A"
@@ -324,7 +314,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:OfficeApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=a39beb0835c43c8e, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:OfficeApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=0e3d40a252277b73, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_86AD7FDC078555B574FC7FCD7C4E2B0F"
@@ -355,7 +345,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:VBIDEApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=931cec8882205047, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:VBIDEApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=856d3723dd1af5d0, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_9AB931E2EF2AD349664A457576D62ED9"
@@ -409,7 +399,7 @@
         }
         "MsiBootstrapper"
         {
-        "LangId" = "3:1033"
+        "LangId" = "3:0"
         "RequiresElevation" = "11:FALSE"
         }
         "Product"
@@ -417,7 +407,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Lightsaber"
         "ProductCode" = "8:{B6DF16E6-D5B7-4E96-89D6-A9892EBB68C2}"
-        "PackageCode" = "8:{46775318-4EDB-4373-8B65-4FE245E64E75}"
+        "PackageCode" = "8:{0C3E9460-016E-4314-BDD3-27545FA9A563}"
         "UpgradeCode" = "8:{344E177F-0578-4D9F-998A-57AE55E203BA}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -449,7 +439,7 @@
             {
                 "Keys"
                 {
-                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_1F3F73ADE235490F808A612D43A9E166"
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_ABF5A583884143C29EFB915E1538ECAE"
                     {
                     "Name" = "8:SOFTWARE"
                     "Condition" = "8:"
@@ -458,7 +448,7 @@
                     "Transitive" = "11:FALSE"
                         "Keys"
                         {
-                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_0BF56297B392459583F6C917FD2DE023"
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_5C061C09633E43639DAE2A7761A0BFB0"
                             {
                             "Name" = "8:Microsoft"
                             "Condition" = "8:"
@@ -467,7 +457,7 @@
                             "Transitive" = "11:FALSE"
                                 "Keys"
                                 {
-                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_805CEE64DB5E455F8C801DD087026BBC"
+                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_2748A03B5B48498DA60226E31461041B"
                                     {
                                     "Name" = "8:Office"
                                     "Condition" = "8:"
@@ -476,7 +466,7 @@
                                     "Transitive" = "11:FALSE"
                                         "Keys"
                                         {
-                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_27AA139EC86C4C66B28D0682C1F0A92F"
+                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_BAEA486792DB4740AC7384CFBC38DB79"
                                             {
                                             "Name" = "8:PowerPoint"
                                             "Condition" = "8:"
@@ -485,7 +475,7 @@
                                             "Transitive" = "11:FALSE"
                                                 "Keys"
                                                 {
-                                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_EF918EC8DF184E469A4A53B27B28DB30"
+                                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_4B17AD69ED5847EB9E025844733A2F85"
                                                     {
                                                     "Name" = "8:AddIns"
                                                     "Condition" = "8:"
@@ -494,27 +484,27 @@
                                                     "Transitive" = "11:FALSE"
                                                         "Keys"
                                                         {
-                                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_9E44A7C31F5348579221D902AD1D27D3"
+                                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_3FAC8D77A18749F195B8026E970596F0"
                                                             {
                                                             "Name" = "8:Lightsaber.Addin"
                                                             "Condition" = "8:"
                                                             "AlwaysCreate" = "11:FALSE"
-                                                            "DeleteAtUninstall" = "11:TRUE"
+                                                            "DeleteAtUninstall" = "11:FALSE"
                                                             "Transitive" = "11:FALSE"
                                                                 "Keys"
                                                                 {
                                                                 }
                                                                 "Values"
                                                                 {
-                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_119DAF85570D477CA736A341C0B13E90"
+                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_30445D4274A4471E92412EE411D79ECB"
                                                                     {
-                                                                    "Name" = "8:LoadBehavior"
+                                                                    "Name" = "8:FriendlyName"
                                                                     "Condition" = "8:"
                                                                     "Transitive" = "11:FALSE"
-                                                                    "ValueTypes" = "3:3"
-                                                                    "Value" = "3:3"
+                                                                    "ValueTypes" = "3:1"
+                                                                    "Value" = "8:Lightsaber"
                                                                     }
-                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_3D560E9989B246FEB4A47F9B47B74CCA"
+                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_53C79EBD58A54110A0CC68EB5E57AF06"
                                                                     {
                                                                     "Name" = "8:Description"
                                                                     "Condition" = "8:"
@@ -522,13 +512,13 @@
                                                                     "ValueTypes" = "3:1"
                                                                     "Value" = "8:Hightlight add-in for Powerpoint"
                                                                     }
-                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_764F5B8A327E4203BFD4CEC1B843CA95"
+                                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_E9C96CB24FEF444A95C5AB7DFE2011DE"
                                                                     {
-                                                                    "Name" = "8:FriendlyName"
+                                                                    "Name" = "8:LoadBehavior"
                                                                     "Condition" = "8:"
                                                                     "Transitive" = "11:FALSE"
-                                                                    "ValueTypes" = "3:1"
-                                                                    "Value" = "8:Lightsaber"
+                                                                    "ValueTypes" = "3:3"
+                                                                    "Value" = "3:3"
                                                                     }
                                                                 }
                                                             }
@@ -988,15 +978,15 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_30353EF62BF8430DBE5DC94615ED9F16"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_1726ABEEE3914D498D63F7EB5F554169"
             {
-            "SourcePath" = "8:..\\Lightsaber\\obj\\x64\\Release\\Lightsaber.dll"
+            "SourcePath" = "8:..\\Lightsaber\\obj\\x86\\Release\\Lightsaber.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_DB4CCD179FFE4888990B8188BC29F4AE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
-            "Vital" = "11:FALSE"
+            "Vital" = "11:TRUE"
             "ReadOnly" = "11:FALSE"
             "Hidden" = "11:FALSE"
             "System" = "11:FALSE"
@@ -1008,7 +998,7 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:2"
-            "OutputConfiguration" = "8:Release|x64"
+            "OutputConfiguration" = "8:Release|x86"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{13F9E412-E84C-4951-B650-BDC18CF528B5}"
             "ShowKeyOutput" = "11:TRUE"
@@ -1016,15 +1006,15 @@
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_FC2979D8509F44B990C14ED3E36B7A97"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_98CBC77F0629426299D0DFD0529C3ACE"
             {
             "SourcePath" = "8:"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_DB4CCD179FFE4888990B8188BC29F4AE"
             "Condition" = "8:SystemLanguageID = 2052 or SystemLanguageID = 3076 or SystemLanguageID = 5124 or SystemLanguageID = 4100 or SystemLanguageID = 1028"
-            "Transitive" = "11:TRUE"
-            "Vital" = "11:FALSE"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
             "ReadOnly" = "11:FALSE"
             "Hidden" = "11:FALSE"
             "System" = "11:FALSE"
@@ -1036,7 +1026,7 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:Release|x64"
+            "OutputConfiguration" = "8:Release|x86"
             "OutputGroupCanonicalName" = "8:LocalizedResourceDlls"
             "OutputProjectGuid" = "8:{13F9E412-E84C-4951-B650-BDC18CF528B5}"
             "ShowKeyOutput" = "11:TRUE"
