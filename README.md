@@ -7,5 +7,4 @@ Highlighter add-in for Powerpoint
 
 # Third-party Projects
 - [NetOffice](http://netoffice.codeplex.com/)
-- [Fugue Icons by Yusuke Kamiyamane](https://www.iconfinder.com/iconsets/fugue)
-- [dotNetInstaller Setup Bootstrapper](http://dblock.github.io/dotnetinstaller/)
+- [Icons by FatCow Web Hosting](https://www.iconfinder.com/iconsets/fatcow)
