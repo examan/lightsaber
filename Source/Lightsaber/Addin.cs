@@ -9,7 +9,7 @@ using PowerPoint = NetOffice.PowerPointApi;
 namespace Lightsaber
 {
     [
-        COMAddin("Lightsaber", "Hightlight add-in for Powerpoint", 3),
+        COMAddin("Lightsaber", "Hightlight add-in for PowerPoint", 3),
         ProgId("Lightsaber.Addin"),
         Guid("052E6528-40D1-4A76-BEDE-FA6416F6DA79"),
         RegistryLocation(RegistrySaveLocation.LocalMachine)
