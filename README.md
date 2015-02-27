@@ -2,7 +2,7 @@
 Highlighter add-in for PowerPoint
 
 # Latest version
-1.0.1
+1.0.5536
 
 # Download Installer
 - [For 32-bit version of PowerPoint](https://github.com/examan/lightsaber/releases/download/1.0.1/Lightsaber86.msi)
