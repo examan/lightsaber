@@ -87,6 +87,11 @@ namespace Lightsaber
         
         private void Highlight(Color color)
         {
+            if (!HighlightEnabled)
+            {
+                return;
+            }
+
             var data = Clipboard.GetDataObject();
             if (data != null && 0 < data.GetFormats().Length)
             {
