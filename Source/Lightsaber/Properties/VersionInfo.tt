@@ -1,6 +1,6 @@
-﻿<#@ template debug="false" language="C#" #>
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>
 <#@ import namespace="System.IO" #>
 <#@ output extension=".cs" #>
 using System.Reflection;
 
-[assembly: AssemblyVersion("<#= File.ReadAllText("../Build/Version.txt").Trim() #>")]
+[assembly: AssemblyVersion("<#= File.ReadAllText(Path.Combine(this.Host.ResolvePath("."), "../../../Build/Version.txt")).Trim() #>")]
