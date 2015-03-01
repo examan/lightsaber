@@ -18,7 +18,7 @@ Highlighter add-in for PowerPoint
 - [Microsoft Visual Studio Installer Projects](https://visualstudiogallery.msdn.microsoft.com/9abe329c-9bba-44a1-be59-0fbf6151054d)
 - [Visual Studio 2013 SDK](http://www.microsoft.com/en-us/download/details.aspx?id=40758)
 - [Modeling SDK for Microsoft Visual Studio 2013](http://www.microsoft.com/en-us/download/details.aspx?id=40754)
-- Powershell
+- PowerShell
 
 # Third-party Projects
 - [NetOffice](http://netoffice.codeplex.com/)
