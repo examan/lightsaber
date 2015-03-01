@@ -1,0 +1,6 @@
+﻿<#@ template debug="false" language="C#" #>
+<#@ import namespace="System.IO" #>
+<#@ output extension=".cs" #>
+using System.Reflection;
+
+[assembly: AssemblyVersion("<#= File.ReadAllText("../Build/Version.txt").Trim() #>")]

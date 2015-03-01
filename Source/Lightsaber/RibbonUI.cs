@@ -1,7 +1,6 @@
 ﻿using NetOffice.OfficeApi;
 using NetOffice.Tools;
 using stdole;
-using System;
 using System.Drawing;
 using System.Windows.Forms;
 using PowerPoint = NetOffice.PowerPointApi;
