@@ -172,7 +172,7 @@ namespace Lightsaber
     {
         private PictureConverter() : base("") { }
 
-        static public IPictureDisp ImageToPictureDisp(Image image)
+        static internal IPictureDisp ImageToPictureDisp(Image image)
         {
             return (IPictureDisp)GetIPictureDispFromPicture(image);
         }

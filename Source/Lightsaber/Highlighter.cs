@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace System.Runtime.CompilerServices
 {
-    public class ExtensionAttribute : Attribute { }
+    internal class ExtensionAttribute : Attribute { }
 }
 
 namespace Lightsaber
@@ -13,7 +13,7 @@ namespace Lightsaber
     /* Reference: http://stackoverflow.com/a/1563724 */
     static class RichTextExtensions
     {
-        public static void ClearSelectionBackColor(this RichTextBox richTextBox)
+        internal static void ClearSelectionBackColor(this RichTextBox richTextBox)
         {
             NativeMethods.CHARFORMAT2 charFormat = new NativeMethods.CHARFORMAT2();
 
