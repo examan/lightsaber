@@ -2,11 +2,11 @@
 Highlighter add-in for PowerPoint
 
 # Latest version
-1.0.5551.3883
+1.0.5553.2225
 
 # Download Installer
-- [For 32-bit version of PowerPoint](https://github.com/examan/lightsaber/releases/download/1.0.5551.3883/Lightsaber86.msi)
-- [For 64-bit version of PowerPoint](https://github.com/examan/lightsaber/releases/download/1.0.5551.3883/Lightsaber64.msi)
+- [For 32-bit version of PowerPoint](https://github.com/examan/lightsaber/releases/download/1.0.5553.2225/Lightsaber86.msi)
+- [For 64-bit version of PowerPoint](https://github.com/examan/lightsaber/releases/download/1.0.5553.2225/Lightsaber64.msi)
 
 # System Requirement
 - Windows Vista or later

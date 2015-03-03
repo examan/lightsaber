@@ -414,7 +414,7 @@
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.0.5551"
+        "ProductVersion" = "8:1.0.5553"
         "Manufacturer" = "8:Examan"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
