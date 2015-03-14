@@ -1,3 +1,5 @@
+![Screenshot](http://examan.github.io/lightsaber/images/screenshot.png)
+
 # Lightsaber
 Highlighter add-in for PowerPoint
 
