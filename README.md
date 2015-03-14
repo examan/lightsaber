@@ -1,7 +1,7 @@
-![Screenshot](http://examan.github.io/lightsaber/images/screenshot.png)
-
 # Lightsaber
 Highlighter add-in for PowerPoint
+
+![Screenshot](http://examan.github.io/lightsaber/images/screenshot.png)
 
 # Latest version
 1.0.5553.2225
