@@ -31,7 +31,7 @@ Highlighter add-in for PowerPoint
 <table>
   <tr><th>PowerPoint</th><th>Windows</th><th>Lightsaber</th></tr>
   <tr><td>32 bit</td><td>32 bit</td><td>32 bit</td></tr>
-  <tr><td>32 bit</td><td>64 bit</td><td>64 bit</td></tr>
+  <tr><td>32 bit</td><td>64 bit</td><td>32 bit</td></tr>
   <tr><td>64 bit</td><td>64 bit</td><td>64 bit</td></tr>
 </table>
 
