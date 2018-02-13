@@ -36,10 +36,10 @@ Highlighter add-in for PowerPoint
 </table>
 
 ### Which version of PowerPoint do I have?
-See [Office Support](https://support.office.com/en-sg/article/Choose-the-32-bit-or-64-bit-version-of-Office-2dee7807-8f95-4d0c-b5fe-6c6f49b8d261#BKMK_WhichVersion)
+See [Office Support](https://support.office.com/en-us/article/Choose-the-32-bit-or-64-bit-version-of-Office-2dee7807-8f95-4d0c-b5fe-6c6f49b8d261#BKMK_WhichVersion)
 
 ### Why can't I highlight between space of words?
 You can get better highlighting experience by disabling autocorrection of PowerPoint.
 
 ### Where can I disable autocorrection of PowerPoint?
-See [Office Support](https://support.office.com/en-ca/article/Where-are-the-AutoCorrect-options-cb889db0-07f8-400a-b6ef-4192cc05cbc3#bm14)
+See [Office Support](https://support.office.com/en-us/article/Where-are-the-AutoCorrect-options-cb889db0-07f8-400a-b6ef-4192cc05cbc3#bm14)
